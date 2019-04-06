@@ -1,0 +1,18 @@
+{
+  "name": "test",
+  "version": "1.0.0",
+  "description": "\"I want to test grunt by follow video\"",
+  "main": "bot.js",
+  "scripts": {
+    "test": "\"\""
+  },
+  "author": "haoch",
+  "license": "ISC",
+  "dependencies": {
+    "grunt": "^1.0.4"
+  },
+  "devDependencies": {
+    "grunt-contrib-concat": "^1.0.1",
+    "grunt-contrib-watch": "^1.1.0"
+  }
+}
